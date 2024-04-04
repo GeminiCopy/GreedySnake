@@ -1,0 +1,14 @@
+C:\Users\53407\source\repos\GreedySnake\bin\Debug\net7.0\GreedySnake.exe
+C:\Users\53407\source\repos\GreedySnake\bin\Debug\net7.0\GreedySnake.deps.json
+C:\Users\53407\source\repos\GreedySnake\bin\Debug\net7.0\GreedySnake.runtimeconfig.json
+C:\Users\53407\source\repos\GreedySnake\bin\Debug\net7.0\GreedySnake.dll
+C:\Users\53407\source\repos\GreedySnake\bin\Debug\net7.0\GreedySnake.pdb
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.AssemblyInfoInputs.cache
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.AssemblyInfo.cs
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.csproj.CoreCompileInputs.cache
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.dll
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\refint\GreedySnake.dll
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.pdb
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\GreedySnake.genruntimeconfig.cache
+C:\Users\53407\source\repos\GreedySnake\obj\Debug\net7.0\ref\GreedySnake.dll
